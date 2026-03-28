@@ -18,7 +18,9 @@ work in data cleaning, analysis and visualization.
 ---
 
 ### Currently working on
-- COVID-19 Data Cleaning & EDA (Python)
+- ## Projects
+- COVID-19 Data Cleaning & EDA
+- Gene Expression Cancer Analysis
 - Setting up on Fiverr and Upwork
 - LinkedIn presence for data analytics
 
