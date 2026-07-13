@@ -1,4 +1,4 @@
-# Abdul Mateen
+# Mateen Ahmad
 
 MS Biotechnology student with a strong interest in data analysis.
 I work with Python and Excel to clean, analyze, and visualize data
