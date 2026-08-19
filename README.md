@@ -2,7 +2,7 @@
 
 ### MS Biotechnology Researcher | Data Scientist | Machine Learning | Computational Drug Discovery
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateen-ahmad-8840b1271)
 [![GitHub](https://img.shields.io/badge/GitHub-abmateen612-black?logo=github&logoColor=white)](https://github.com/abmateen612)
 
 I am a biotechnology researcher and data scientist interested in using machine learning and computational approaches to solve problems in biology and drug discovery.
@@ -100,6 +100,6 @@ Qurtuba University, Dera Ismail Khan
 
 ## Connect With Me
 
-[LinkedIn](www.linkedin.com/in/mateen-ahmad-8840b1271) • [GitHub](https://github.com/abmateen612)
+[LinkedIn](https://www.linkedin.com/in/mateen-ahmad-8840b1271) • [GitHub](https://github.com/abmateen612)
 
-📧 abmateenofficial@gmail.com
+📧 [abmateenofficial@gmail.com](mailto:abmateenofficial@gmail.com)
