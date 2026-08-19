@@ -4,7 +4,7 @@
 
 I am a biotechnology researcher and data scientist interested in using machine learning and computational approaches to solve problems in biology and drug discovery.
 
-My current interests are focused on **antimicrobial resistance, computational drug discovery, cheminformatics, and machine learning for biological data**.
+My current interests are focused on antimicrobial resistance, computational drug discovery, cheminformatics, and machine learning for biological data.
 
 I enjoy working across both biological and computational domains — from processing biological and chemical datasets to developing machine learning models and exploring molecular interactions through computational drug discovery workflows.
 
@@ -93,14 +93,10 @@ Current research direction: Computational Drug Discovery, Machine Learning & Ant
 
 Qurtuba University, Dera Ismail Khan
 
-**Statistics**
-
-Academic background in statistics and quantitative data analysis
-
 ---
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/abmateen612)
+[LinkedIn](www.linkedin.com/in/mateen-ahmad-8840b1271) • [GitHub](https://github.com/abmateen612)
 
 📧 abmateenofficial@gmail.com
