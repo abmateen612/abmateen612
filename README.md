@@ -37,8 +37,9 @@ biology, artificial intelligence, and drug discovery.
 - Cheminformatics
 - Computational Biology
 - QSAR & ADMET Prediction
-- Molecular Docking
-- Biological Data Analysis
+- Molecular Docking & Virtual Screening
+- Biological & Chemical Data Analysis
+- AI-assisted Drug Discovery
 
 ---
 
@@ -50,67 +51,132 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • SQL 
 
 ### Machine Learning
 
-Data Preprocessing • Feature Engineering • Regression • Classification • Model Evaluation • Random Forest • Support Vector Machines
+Data Preprocessing • Feature Engineering • Regression • Classification •
+Model Evaluation • Random Forest • Support Vector Machines
 
 ### Cheminformatics
 
-RDKit • SMILES Processing • Molecular Descriptors • Molecular Fingerprints • Similarity Analysis • Compound Clustering
+RDKit • SMILES Processing • Molecular Descriptors • Molecular Fingerprints •
+Tanimoto Similarity • Compound Clustering • Lipinski Filtering • PAINS Filtering
 
-### Drug Discovery
+### Computational Drug Discovery
 
-AutoDock Vina • MGLTools • Open Babel • Molecular Docking • Protein Preparation • Ligand Preparation • Virtual Screening
+Molecular Docking • Virtual Screening • Protein Preparation • Ligand Preparation •
+AutoDock Vina • MGLTools • Open Babel
 
 ---
 
 ## Featured Projects
 
-### Antibacterial Activity Prediction
+### 1. Protein Target Prioritization for Antibacterial Drug Discovery
 
-Machine learning analysis of antibacterial activity data against *Pseudomonas aeruginosa* using molecular descriptors and regression models.
+Computational research focused on identifying and prioritizing
+potential protein targets for antibacterial drug discovery.
 
-**Tools:** Python • Pandas • RDKit • Scikit-learn
+The work considers multiple biological and computational factors
+relevant to target selection, including protein essentiality,
+conservation, gene expression, subcellular localization, pathway
+importance, protein characteristics, and similarity to human proteins.
 
-### Computational Drug Discovery
+**Focus:** Antimicrobial Resistance • Drug Target Identification •
+Computational Biology
 
-Computational workflow involving protein preparation, ligand preparation, molecular docking, docking-score analysis, and compound prioritization.
 
-**Tools:** Python • AutoDock Vina • MGLTools • Open Babel
+### 2. Acinetobacter baumannii Drug Target Identification
 
-### Cheminformatics Compound Filtering & Clustering
+Computational drug discovery research focused on identifying and
+investigating potential drug targets in *Acinetobacter baumannii*,
+an important antimicrobial-resistant bacterial pathogen.
 
-Processing and filtering of compound libraries using molecular properties, Lipinski rules, PAINS filtering, molecular fingerprints, similarity analysis, and clustering.
+The project involves investigation of bacterial survival-related
+proteins and computational approaches for evaluating potential
+targets for antibacterial drug discovery.
 
-**Tools:** Python • RDKit • Pandas
+**Focus:** Antimicrobial Resistance • Drug Target Identification •
+Computational Drug Discovery
 
-### Automated Drug Discovery Workflow
 
-Development of reproducible computational workflows for automating repetitive protein and ligand preparation tasks.
+### 3. Gene Expression Cancer Analysis
 
-**Tools:** Python • RDKit • Open Babel • AutoDock Vina
+Analysis of RNA-seq gene expression data from five different cancer
+types using Python.
 
----
+The project includes data preprocessing, exploratory data analysis,
+statistical analysis, and visualization to investigate gene expression
+patterns and differences across cancer types.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+**Additional work:** PCA and clustering analysis were also performed
+to investigate patterns and relationships within the gene-expression
+data. These analyses are currently being prepared for addition to
+the GitHub repository.
+
+
+### 4. COVID-19 Data Analysis
+
+Exploratory data analysis of COVID-19 data using Python to investigate
+patterns and trends in reported cases and other relevant variables.
+
+The project demonstrates data cleaning, exploratory analysis,
+visualization, and interpretation of real-world health data.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+
+### 5. Diabetes Prediction Using Machine Learning
+
+Machine learning project focused on predicting diabetes using
+patient-related features.
+
+The project demonstrates data preprocessing, exploratory data
+analysis, feature preparation, machine learning model development,
+and evaluation.
+
+**Tools:** Python • Pandas • NumPy • Scikit-learn
+
+
+### 6. Cheminformatics Compound Filtering & Clustering
+
+A cheminformatics workflow developed for processing and reducing
+compound libraries for computational drug discovery.
+
+The workflow includes SMILES validation, Lipinski filtering, Veber
+filtering, PAINS filtering, molecular descriptors, QED evaluation,
+molecular fingerprints, Tanimoto similarity, clustering, and
+representative compound selection.
+
+**Tools:** Python • RDKit • Pandas • NumPy
+
+**Status:** Developed as part of my ongoing computational drug
+discovery work and currently being prepared for addition to GitHub.---
 
 ## Currently Learning
 
-- Advanced Machine Learning
 - Machine Learning for Drug Discovery
-- Molecular Representation Learning
 - QSAR Modelling
 - ADMET Prediction
+- Cheminformatics & Molecular Representation
 - Computational Biology
-- Reproducible Research Workflows
+- Biological Data Analysis
+- Advanced Machine Learning
+- Reproducible Computational Workflows
 
 ---
 
 ## Education
 
-**MS Biotechnology**
+### MS Biotechnology
 
-Current research direction: Computational Drug Discovery, Machine Learning & Antimicrobial Resistance
+**Current**
 
-**MSc Zoology**
+Research interests: Computational Drug Discovery, Machine Learning,
+Cheminformatics, and Antimicrobial Resistance.
 
-Qurtuba University, Dera Ismail Khan
+### MSc Zoology
+
+**Qurtuba University, Dera Ismail Khan**
+
 
 ---
 
