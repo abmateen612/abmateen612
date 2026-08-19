@@ -5,11 +5,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateen-ahmad-8840b1271)
 [![GitHub](https://img.shields.io/badge/GitHub-abmateen612-black?logo=github&logoColor=white)](https://github.com/abmateen612)
 
-I am a biotechnology researcher and data scientist interested in using machine learning and computational approaches to solve problems in biology and drug discovery.
+## About Me
 
-My current interests are focused on antimicrobial resistance, computational drug discovery, cheminformatics, and machine learning for biological data.
+I am an MS Biotechnology researcher and data scientist interested in
+using computational and data-driven approaches to understand
+biological problems and support drug discovery.
 
-I enjoy working across both biological and computational domains — from processing biological and chemical datasets to developing machine learning models and exploring molecular interactions through computational drug discovery workflows.
+My current research interests are focused on antimicrobial resistance,
+computational drug discovery, machine learning, and cheminformatics.
+I am particularly interested in how biological and chemical data can
+be combined with machine learning to identify and prioritize potential
+antibacterial compounds.
+
+I work across both biological and computational domains, using Python,
+machine learning, cheminformatics, and molecular modelling tools.
+My projects include biological data analysis, molecular descriptor-based
+modelling, compound filtering and clustering, and molecular docking
+workflows.
+
+I am continuously developing my skills in both biotechnology and data
+science, with the long-term goal of working at the intersection of
+biology, artificial intelligence, and drug discovery.
 
 ---
 
